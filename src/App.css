@@ -1,5 +1,14 @@
+.empty {
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
 .mainBody{
-    background: url(./assets/bg2.jpg);
+    background: url(./assets/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
